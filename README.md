@@ -4,7 +4,7 @@ Landing page pencarian kerja berbasis **HTML dan CSS murni** (tanpa JavaScript, 
 
 > Proyek ini dibuat sebagai prototipe untuk tugas UX/UI. Semua data lowongan, perusahaan, dan gaji adalah contoh.
 
-![Tampilan Jalurkerja](screenshot.png)
+![Tampilan Jalurkerja](logo.png)
 
 **Demo:** `https://USERNAME.github.io/NAMA-REPO/` *(ganti setelah GitHub Pages aktif)*
 
